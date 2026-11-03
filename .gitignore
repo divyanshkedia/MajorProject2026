@@ -1,0 +1,8 @@
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+paper.tex
+ASVspoof5.codec.config.csv
+ASVspoof5.dev.track_1.tsv
+ASVspoof5.train.tsv
